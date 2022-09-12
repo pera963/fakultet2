@@ -8,13 +8,6 @@ public class Asistent extends Profesor {
         return fondCasovaVezbi;
     }
     
-    
-    
-    
-    
-    
-    
-
     public void setFondCasovaVezbi(int fondCasovaVezbi) {
         this.fondCasovaVezbi = fondCasovaVezbi;
     }
