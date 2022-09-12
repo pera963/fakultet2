@@ -1,7 +1,6 @@
 
 public class Student extends Osoba {
 
-
     private String brIndeksa;
     private int godinaFakulteta;
     private boolean daLiJeNaBudzetu;

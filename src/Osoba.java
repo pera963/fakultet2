@@ -2,6 +2,7 @@
 public abstract class Osoba {
 
 	
+	
 	    private String ime;
 	    private String prezime;
 
