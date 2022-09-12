@@ -10,6 +10,15 @@ public abstract class Osoba {
 	        return ime;
 	    }
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	    public void setIme(String ime) {
 	        this.ime = ime;
 	    }
