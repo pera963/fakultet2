@@ -17,6 +17,8 @@ public class Student extends Osoba {
         return godinaFakulteta;
     }
 
+    
+    
     public void setGodinaFakulteta(int godinaFakulteta) {
         this.godinaFakulteta = godinaFakulteta;
     }

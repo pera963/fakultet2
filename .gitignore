@@ -1,0 +1,8 @@
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+bin/Asistent.class
+bin/Main.class
+bin/Osoba.class
+bin/Profesor.class
+bin/Student.class
+.project
